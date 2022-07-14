@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Romany NAsry
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python,SQL,Tableau
-- 📫 How to reach me ...
+
 
 
 <!---
